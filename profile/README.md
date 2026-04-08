@@ -1,3 +1,5 @@
+<img width="3000" height="530" alt="image" src="https://github.com/user-attachments/assets/afede6cc-8ac6-430b-87cd-c83959f4343c" />
+
 # Hacker Valley Media
 
 Cybersecurity storytelling through podcasts, video, and code.
