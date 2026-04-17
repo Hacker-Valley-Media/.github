@@ -20,7 +20,7 @@ Hacker Valley Media is a full-service creative agency built by cyber practitione
 
 We build tools that make our work better and we share them.
 
-- **[slop-browser](https://github.com/Hacker-Valley-Media/slop-browser)** Browser automation CLI for AI agents. No CDP, no API keys, no detection. A Chrome extension that controls your real browser from the inside. Passes every major bot detection suite as a normal human.
+- **[Interceptor](https://github.com/Hacker-Valley-Media/Interceptor)** Browser and macOS automation CLI for AI agents. No CDP, no API keys, no detection. A Chrome extension and macOS companion that control your real browser and your real Mac from the inside. Passes every major bot detection suite as a normal human. Records user sessions across tabs and replays them as runnable scripts.
 
 ## Connect
 
